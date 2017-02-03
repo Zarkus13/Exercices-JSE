@@ -18,3 +18,5 @@ hs_err_pid*
 /ArraySort/build/
 /CollectionsExamples/build/
 /ReportWriter/build/
+/NegativeImage/build/
+/CharactersCount/build/
